@@ -1,3 +1,3 @@
 let apple = "fruit";
 
-console.log(apple);
+Document.write(apple);
